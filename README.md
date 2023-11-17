@@ -16,8 +16,8 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HussianTrack.git
+git clone https://github.com/ohioguy123/HussianTrack.git
 cd HussianTrack
 pip3 install -r requirements.txt
-python3 HussianTrack.py
+python3 Hussian.py
 ```
