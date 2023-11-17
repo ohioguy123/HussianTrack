@@ -18,7 +18,6 @@ Wh='\033[1;37m'
 
 #BANNER TOOLS
 os.system('clear')
-os.system('cls')
 stderr.writelines(f"""{Gr}
 
 
@@ -45,7 +44,6 @@ input_user = input(f'\n   {Wh}@Hussian~# {Gr}')
 
 if input_user == '1': #OPSI 1
     os.system('clear')
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
      
@@ -111,7 +109,6 @@ if input_user == '1': #OPSI 1
 
 elif input_user == '2': #OPSI 2
     os.system('clear')
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
 
@@ -180,7 +177,6 @@ elif input_user == '2': #OPSI 2
 
 elif input_user == '3':
     os.system('clear')
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
 
